@@ -1,7 +1,8 @@
 ---
-title: Proj: No Compensate
+title: No Compensate
 date: 2025-04-28 22:21:46
 tags:
+  - PCBuilding
 ---
 
 # 预告
