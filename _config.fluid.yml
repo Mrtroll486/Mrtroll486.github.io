@@ -1031,12 +1031,29 @@ links:
   # Member item of page
   items:
     - {
-      title: "可惜，现在没有友链:(",
-      intro: "Try Me",
-      link: "no-friend-link",
-      avatar: "/img/favicon.png"
+      title: "SOV710",
+      intro: "新生的鼓动啊，回响吧。少女此刻，开启青色的魔法。",
+      link: "blog.sov710.org",
+      avatar: "https://assets.sov710.org/images/meta/avatar.png"
     }
-
+    - {
+      title: "LunaRain_079",
+      intro: "暂伴月将影，行乐须及春",
+      link: "www.lunarain.top",
+      avatar: "https://avatars.githubusercontent.com/u/176664901?v=4"
+    }
+    - {
+      title: "寒冰是喵喵",
+      intro: "🍀 这里是寒冰，很高兴认识你！",
+      link: "https://blog.hanbings.io",
+      avatar: "https://blog.hanbings.io/img/avatar.jpg"
+    }
+    - {
+      title: "柳上川",
+      intro: "宁可清贫自乐, 不作浊富多忧",
+      link: "kawayww.com",
+      avatar: "https://kawayww.com/images/blog/avatar.avif"
+    }
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
   onerror_avatar: /img/avatar.png
