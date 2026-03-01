@@ -1033,13 +1033,13 @@ links:
     - {
       title: "SOV710",
       intro: "新生的鼓动啊，回响吧。少女此刻，开启青色的魔法。",
-      link: "blog.sov710.org",
+      link: "https://blog.sov710.org",
       avatar: "https://assets.sov710.org/images/meta/avatar.png"
     }
     - {
       title: "LunaRain_079",
       intro: "暂伴月将影，行乐须及春",
-      link: "www.lunarain.top",
+      link: "https://www.lunarain.top",
       avatar: "https://avatars.githubusercontent.com/u/176664901?v=4"
     }
     - {
@@ -1051,8 +1051,14 @@ links:
     - {
       title: "柳上川",
       intro: "宁可清贫自乐, 不作浊富多忧",
-      link: "kawayww.com",
+      link: "https://kawayww.com",
       avatar: "https://kawayww.com/images/blog/avatar.avif"
+    }
+    - {
+      title: "CAICAIIs",
+      intro: "相信的心就是你的魔法！",
+      link: "https://caicaiis.cc",
+      avatar: "https://caicaiis.cc/assets/images/photo.jpg"
     }
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
